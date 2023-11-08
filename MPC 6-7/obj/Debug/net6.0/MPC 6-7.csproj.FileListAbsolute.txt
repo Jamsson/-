@@ -1,0 +1,14 @@
+D:\VS\HomeWork\MPC 6-7\bin\Debug\net6.0\MPC 6-7.exe
+D:\VS\HomeWork\MPC 6-7\bin\Debug\net6.0\MPC 6-7.deps.json
+D:\VS\HomeWork\MPC 6-7\bin\Debug\net6.0\MPC 6-7.runtimeconfig.json
+D:\VS\HomeWork\MPC 6-7\bin\Debug\net6.0\MPC 6-7.dll
+D:\VS\HomeWork\MPC 6-7\bin\Debug\net6.0\MPC 6-7.pdb
+D:\VS\HomeWork\MPC 6-7\obj\Debug\net6.0\MPC 6-7.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\HomeWork\MPC 6-7\obj\Debug\net6.0\MPC 6-7.AssemblyInfoInputs.cache
+D:\VS\HomeWork\MPC 6-7\obj\Debug\net6.0\MPC 6-7.AssemblyInfo.cs
+D:\VS\HomeWork\MPC 6-7\obj\Debug\net6.0\MPC 6-7.csproj.CoreCompileInputs.cache
+D:\VS\HomeWork\MPC 6-7\obj\Debug\net6.0\MPC 6-7.dll
+D:\VS\HomeWork\MPC 6-7\obj\Debug\net6.0\refint\MPC 6-7.dll
+D:\VS\HomeWork\MPC 6-7\obj\Debug\net6.0\MPC 6-7.pdb
+D:\VS\HomeWork\MPC 6-7\obj\Debug\net6.0\MPC 6-7.genruntimeconfig.cache
+D:\VS\HomeWork\MPC 6-7\obj\Debug\net6.0\ref\MPC 6-7.dll
