@@ -117,35 +117,36 @@ namespace ConsoleApp2
                             }
                             break;
                         case 2:
+                            Console.Clear();
                             // Вводим значение e
                             Console.WriteLine("Введите значение e:");
-                            float e = float.Parse(Console.ReadLine());
+                            float j = float.Parse(Console.ReadLine());
 
                             // Инициализируем переменные
-                            float s = 0;
-                            int n = 0;
+                            float g = 0;
+                            int y = 0;
 
                             // Цикл по членам ряда
                             while (true)
                             {
                                 // Вычисляем значение очередного члена ряда
-                                float a = (n + 1)! / (2 * (n + 1))!;
+                                float t = (y + 1)! / (2 * (y + 1))!;
 
                                 // Если значение члена ряда меньше e, то выходим из цикла
-                                if (Math.Abs(a) < e)
+                                if (Math.Abs(t) < j)
                                 {
                                     break;
                                 }
 
                                 // Добавляем член ряда к сумме
-                                s += a;
+                                g += t;
 
                                 // Увеличиваем счетчик членов ряда
-                                n++;
+                                y++;
                             }
 
                             // Выводим результат
-                            Console.WriteLine("Сумма ряда: {0}", s);
+                            Console.WriteLine("Сумма ряда: {0}", g);
 
 
                             break;
@@ -163,28 +164,28 @@ namespace ConsoleApp2
 
                     // Инициализируем переменные
                     float s = 0;
-                    float a = 1;
+                    float f = 1;
                     float last_a = 0;
-                    int n = 0;
+                    int k = 0;
 
                     // Цикл по членам ряда
                     while (true)
                     {
                         // Вычисляем значение очередного члена ряда
-                        last_a = a;
-                        a = (n + 1)! / (2 * (n + 1))!;
+                        last_a = f;
+                        f = (k + 1)! / (2 * (k + 1))!;
 
                         // Если значение члена ряда меньше e, то выходим из цикла
-                        if (Math.Abs(a - last_a) < e)
+                        if (Math.Abs(f - last_a) < e)
                         {
                             break;
                         }
 
                         // Добавляем член ряда к сумме
-                        s += a;
+                        s += f;
 
                         // Увеличиваем счетчик членов ряда
-                        n++;
+                        k++;
                     }
 
                     // Выводим результат
